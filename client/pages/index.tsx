@@ -4,7 +4,7 @@ import { NextPage } from "next"
 const HomePage = (): JSX.Element => {
     return (
         <FramerFlex>
-            
+            fair-subway!
         </FramerFlex>
     )
 }
