@@ -1,10 +1,6 @@
 export const framerVariants = {
-    ccontainer: {
-        initial: {
-
-        },
-        animate: {
-            
-        }
-    }
+  ccontainer: {
+    initial: {},
+    animate: {},
+  },
 }
